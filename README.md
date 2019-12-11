@@ -1,4 +1,4 @@
-# Social Network Analytics project
+# Social Network Analytics
 Social media influencers are of enormous importance in digital marketing, as they help organizations in reaching larger audience through Influencer Marketing. The program for this project was coded and executed in Jupyter Notebook.
 
 The overview of this project is as follows,
