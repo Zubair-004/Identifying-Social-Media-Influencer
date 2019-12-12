@@ -1,5 +1,5 @@
 # Social Network Analytics
-Social media influencers are of enormous importance in digital marketing, as they help organizations in reaching larger audience through Influencer Marketing. The program for this project was coded and executed in Jupyter Notebook.
+Social media influencers are of enormous importance in digital marketing, as they help organizations in reaching larger audience through Influencer Marketing.The aim of this program is to predict who is more influential among two Social Media users for various account attributes which are known.
 
 The overview of this project is as follows,
 
