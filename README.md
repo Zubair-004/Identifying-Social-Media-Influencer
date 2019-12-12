@@ -1,20 +1,15 @@
-# Social Network Analytics
-Social media influencers are of enormous importance in digital marketing, as they help organizations in reaching larger audience through Influencer Marketing.The aim of this program is to predict who is more influential among two Social Media users for various account attributes which are known.
+Overview:
 
-The overview of this project is as follows,
+•	Importing Datasets
 
-•	Importing the training and testing datasets
+•	Performing EDA
 
-•	Inspecting the datasets for missing values
+•	Imputation
 
-•	Splitting the train dataset (i.e. 70% for training the model and 30% for testing the model)
+•	Implementing Logistic Regression model
 
-•	Applying Logistic Regression
+•	Checking Model accuracy using Confusion Matrix, f1_score and accuracy score  
 
-•	Checking the accuracy of the model by 'accuracy_score' and 'f1_score'
+•	Fine tuning with Random Classifier model
 
-• Applying Random Forest Classification model for improved accuracy
-
-•	Deploying the model on the testing dataset for predicting the unknown values
-
-•	Storing the predicted values in a Dataframe and saving it in a ‘csv’ format
+•	Deploying for prediction
